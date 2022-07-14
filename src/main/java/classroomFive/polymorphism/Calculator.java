@@ -14,6 +14,8 @@ public class Calculator {
         System.out.println("saskaitam tris skaitļus");
         return a + b + c;
     }
-
+    public double sum(int i, int i1, int i2, double v) {
+        return i + i1 + i2 + v;
+    }
 
 }
